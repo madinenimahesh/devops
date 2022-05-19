@@ -1,4 +1,7 @@
 this is test file
 file1
+<<<<<<< HEAD
 softare is available in this system
 this is mahesh
+=======
+>>>>>>> parent of c6e447b (file1 modified)
